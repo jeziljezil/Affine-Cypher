@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1678871919 source:c:\users\asus\desktop\affine_cipher\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1677839938 source:c:\users\asus\desktop\affine_cipher\untitled1.c
+
+1678810387 source:c:\users\asus\desktop\affine_cipher\asdf.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+
